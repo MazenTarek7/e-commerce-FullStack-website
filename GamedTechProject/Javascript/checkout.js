@@ -1,0 +1,1 @@
+document.querySelectorAll('.btn')[1].href = "checkout.html";
