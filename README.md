@@ -8,4 +8,4 @@ Technologies Used:
 - PHP (For Backend)
 
 # Note
-In contactForm.js make sure to enter credentials of as specified to use smtp js and send emails.
+In contactForm.js make sure to enter the credentials as specified to use smtp js and send emails.
