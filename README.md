@@ -6,3 +6,6 @@ Technologies Used:
 - smtpjs (To Send emails over JS)
 - Jquery
 - PHP (For Backend)
+
+# Note
+In contactForm.js make sure to enter credentials of as specified to use smtp js and send emails.
